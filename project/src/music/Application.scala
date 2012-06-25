@@ -7,6 +7,7 @@ object Application extends App {
 	println(new Song("David Guetta ft. Usher",         "Without You",                210))
 	println(new Song("Digital Bitches feat. Headline", "Heaven (Dan J's Booty Mix)", 215))
 	// */
+	
 	//*
 	println(new KaraokeSong("Udo Jürgens",             "Vielen Dank für die Blumen", 80,
 	    "Vielen Dank für die Blumen! Vielen Dank, wie lieb von Dir! Manchmal spielt das Leben mir dir gern Katz und Maus…"))
